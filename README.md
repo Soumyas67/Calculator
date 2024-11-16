@@ -1,22 +1,10 @@
 
-# Calculator-using-HTML-CSS-JavaScript
+# Calculator
 
 A simple Calculator using HTML CSS and JavaScript.
 
-
-[instagram]: https://instagram.com/siddharth_9300
-[linkedin]: https://linkedin.com/in/siddharth9300
-
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/siddharth9300/Calculator-using-HTML-CSS-JavaScript/main/calculator.png)
-
-
 ## Demo
 
-https://siddharth9300.github.io/Calculator-using-HTML-CSS-JavaScript/
+https://soumyas67.github.io/Calculator/
 
-## Authors
-
-- [@siddharth9300](https://www.github.com/siddharth9300)
 
